@@ -1,0 +1,14 @@
+{
+  "name": "sample-node-tunnel",
+  "version": "1.0.0",
+  "description": "Node tunnel testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lambdatest/node-tunnel": "^1.1.3"
+  }
+}
