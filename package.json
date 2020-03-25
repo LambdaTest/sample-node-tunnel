@@ -4,7 +4,9 @@
   "description": "Node tunnel testing",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "lsl":"ls -al",
+    "unameCmd":"uname -a"
   },
   "author": "",
   "license": "ISC",
