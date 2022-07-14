@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@lambdatest/node-tunnel": "^1.1.3"
+    "@lambdatest/node-tunnel": "^3.0.7"
   }
 }
